@@ -61,16 +61,11 @@ streamlit run app.py
 4.🧪 Example Usage
 ```bash
 Enter side effects like:
-
-Copy
-Edit
 hives, nausea, slurred speech
+
 Output:
-
 Predicted Condition: Acne
-
 Rating: 6.5
-
 Reviews: 230
 
 ```
